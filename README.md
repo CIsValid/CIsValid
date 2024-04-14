@@ -7,22 +7,22 @@
 ## ハイライトプロジェクト:
 
 ### ArchHyprDots (I use arch btw)
-![Stars](https://img.shields.io/github/stars/CIsValid/ArchHyprDots?style=social)
+![Stars](https://img.shields.io/github/stars/CIsValid/ArchHyprDots?style=flat-square)
 - Arch Dotfiles To Clone My Setup
 - 私のセットアップをクローンするためのArch Dotfiles
 
 ### Init.lua
-![Stars](https://img.shields.io/github/stars/CIsValid/init.lua?style=social)
+![Stars](https://img.shields.io/github/stars/CIsValid/init.lua?style=flat-square)
 - Neovim Config For Game Devs
 - ゲーム開発者用のNeovimコンフィグ
 
 ### Project-Temple
-![Stars](https://img.shields.io/github/stars/CIsValid/Project-Temple?style=social)
+![Stars](https://img.shields.io/github/stars/CIsValid/Project-Temple?style=flat-square)
 - Temple Runner'esk Game
 - テンプルラン風ゲーム
 
 ### Mass-Rename-Transfer-Copy-Tool
-![Stars](https://img.shields.io/github/stars/CIsValid/Mass-Rename-Transfer-Copy-Tool?style=social)
+![Stars](https://img.shields.io/github/stars/CIsValid/Mass-Rename-Transfer-Copy-Tool?style=flat-square)
 - Mass Renaming, Tranfering and Copying tool created with C# to aid productions.
 - 製作支援のためにC#で作成された大量リネーム、転送、コピーツール。
 
