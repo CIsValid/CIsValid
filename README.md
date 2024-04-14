@@ -7,7 +7,7 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=CIsValid&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/CIsValid">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CIsValid&layout=compact&theme=tokyonight" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CIsValid&layout=compact&theme=tokyonight" />
 </a>
 
 ###
