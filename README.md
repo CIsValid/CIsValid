@@ -4,10 +4,10 @@
 ## GitHub Stats
 
 <a href="https://github.com/CIsValid">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=CIsValid&show_icons=true&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CIsValid&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/CIsValid">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CIsValid&layout=compact&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CIsValid&layout=compact&theme=tokyonight" />
 </a>
 
 
@@ -16,11 +16,12 @@
 
 ### ArchHyprDots (I use arch btw)
 <a href="https://github.com/CIsValid/ArchHyprDots">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+  <img height=200 align="center" src="https://github.com/CIsValid/ArchHyprDots" />
 </a>
 <a href="https://github.com/CIsValid/init.lua">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github.com/CIsValid/init.lua" />
 </a>
+
 - Arch Dotfiles To Clone My Setup
 - 私のセットアップをクローンするためのArch Dotfiles
 
