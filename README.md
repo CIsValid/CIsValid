@@ -18,8 +18,8 @@
 
 ###
 
-## Highlighted Projects:
-## ハイライトプロジェクト:
+### Highlighted Projects:
+### ハイライトプロジェクト:
 
 ### ArchHyprDots (I use arch btw)
 <a href="https://github.com/CIsValid/ArchHyprDots">
