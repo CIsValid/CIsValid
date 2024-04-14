@@ -1,5 +1,5 @@
 # Hey, I'm Christian and welcome to my profile! 👋
-# ども～、僕はクリスチャンです～！よろしくお願いいたします！
+ども～、僕はクリスチャンです～！よろしくお願いいたします！
 
 ## GitHub Stats
 
