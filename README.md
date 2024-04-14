@@ -31,7 +31,7 @@ https://github.com/DenverCoder1/readme-typing-svg
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=CIsValid&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=CIsValid&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
 </div>
 
 <!-- Themes for streak stats
