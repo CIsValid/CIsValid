@@ -46,6 +46,10 @@ https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/docs/themes
 <p align="left"> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 -->
 
+<p dir="auto"><a href="https://github.com/CIsValid/ArchHyprDots"><img src="https://camo.githubusercontent.com/2364b669f82d30c18c9cc5863e1ce41181db9f2c9875a10774f3885cb68fda9b/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d6d61786272756e646576267265706f3d416d626572456e67696e65267468656d653d64726163756c61" alt="Repo" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=CIsValid&amp;repo=ArchHyprDots&amp;theme=tokyonight" style="max-width: 100%;"></a>
+<a href="https://github.com/CIsValid/init.lua"><img src="https://camo.githubusercontent.com/322ee176da64875c68b116476108e5ce4986cdcad43d8175e98573279868062d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d6d61786272756e646576267265706f3d416d6265724372616674267468656d653d64726163756c61" alt="Repo" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=CIsValid&amp;repo=init.lua&amp;theme=tokyonight" style="max-width: 100%;"></a>
+<a href="https://github.com/CIsValid/Project-Temple"><img src="https://camo.githubusercontent.com/b99d2afa98e02022093d8eff277d8fc427834039ddb2c791aae734bd7ed98d51/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f70696e2f3f757365726e616d653d6d61786272756e646576267265706f3d4f7665726c6f6164267468656d653d64726163756c61" alt="Repo" data-canonical-src="https://github-readme-stats.vercel.app/api/pin/?username=CIsValid&amp;repo=Overload&amp;theme=tokyonight" style="max-width: 100%;"></a></p>
+
 ## Highlighted Projects:
 ハイライトプロジェクト:
 
