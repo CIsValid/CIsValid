@@ -47,17 +47,9 @@ https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/docs/themes
 -->
 
 <p dir="auto"><a href="https://github.com/CIsValid/ArchHyprDots"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CIsValid&repo=ArchHyprDots&theme=tokyonight" style="max-width: 100%;"></a>
-- Arch Dotfiles To Clone My Setup
-- 私のセットアップをクローンするためのArch Dotfiles
 <a href="https://github.com/CIsValid/init.lua"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CIsValid&repo=init.lua&theme=tokyonight" style="max-width: 100%;"></a>
-- Neovim Config For Game Devs
-- ゲーム開発者用のNeovimコンフィグ
 <a href="https://github.com/CIsValid/Project-Temple"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CIsValid&repo=Project-Temple&theme=tokyonight" style="max-width: 100%;"></a>
-- Temple Runner'esk Game
-- テンプルラン風ゲーム
 <a href="https://github.com/CIsValid/Mass-Rename-Transfer-Copy-Tool"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CIsValid&repo=Mass-Rename-Transfer-Copy-Tool&theme=tokyonight" style="max-width: 100%;"></a></p>
-- Mass Renaming, Tranfering and Copying tool created with C# to aid productions.
-- 製作支援のためにC#で作成された大量リネーム、転送、コピーツール。
 
 
 ###
