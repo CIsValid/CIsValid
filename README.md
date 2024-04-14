@@ -10,6 +10,13 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CIsValid&layout=compact&theme=tokyonight" />
 </a>
 
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=CIsValid&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 ## Highlighted Projects:
 ## ハイライトプロジェクト:
@@ -39,16 +46,6 @@
 ![Stars](https://img.shields.io/github/stars/CIsValid/Mass-Rename-Transfer-Copy-Tool?style=flat-square)
 - Mass Renaming, Tranfering and Copying tool created with C# to aid productions.
 - 製作支援のためにC#で作成された大量リネーム、転送、コピーツール。
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=CIsValid&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
 
 
 ###
