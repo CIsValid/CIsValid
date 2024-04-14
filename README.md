@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hey, I'm Christian and welcome to my profile! 👋
+# ども～、僕はクリスチャンです～！よろしくお願いいたします！
 
-<!--
-**CIsValid/CIsValid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CIsValid&show_icons=true&theme=dark)
 
-Here are some ideas to get you started:
+## Highlighted Projects:
+## ハイライトプロジェクト:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ArchHyprDots (I use arch btw)
+![Stars](https://img.shields.io/github/stars/CIsValid/ArchHyprDots?style=social)
+- Arch Dotfiles To Clone My Setup
+- 私のセットアップをクローンするためのArch Dotfiles
+
+### Init.lua
+![Stars](https://img.shields.io/github/stars/CIsValid/init.lua?style=social)
+- Neovim Config For Game Devs
+- ゲーム開発者用のNeovimコンフィグ
+
+### Project-Temple
+![Stars](https://img.shields.io/github/stars/CIsValid/Project-Temple?style=social)
+- Temple Runner'esk Game
+- テンプルラン風ゲーム
+
+### Mass-Rename-Transfer-Copy-Tool
+![Stars](https://img.shields.io/github/stars/CIsValid/Mass-Rename-Transfer-Copy-Tool?style=social)
+- Mass Renaming, Tranfering and Copying tool created with C# to aid productions.
+- 製作支援のためにC#で作成された大量リネーム、転送、コピーツール。
+
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CIsValid&layout=compact&theme=dark)
