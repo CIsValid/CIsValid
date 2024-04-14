@@ -1,7 +1,7 @@
 # Hey, I'm Christian and welcome to my profile! 👋
 # ども～、僕はクリスチャンです～！よろしくお願いいたします！
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CIsValid&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CIsValid&show_icons=true&theme=tokyonight)
 
 ## Highlighted Projects:
 ## ハイライトプロジェクト:
@@ -27,4 +27,4 @@
 - 製作支援のためにC#で作成された大量リネーム、転送、コピーツール。
 
 ## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CIsValid&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CIsValid&layout=compact&theme=tokyonight)
