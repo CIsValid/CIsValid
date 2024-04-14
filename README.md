@@ -38,8 +38,7 @@ https://github.com/DenverCoder1/readme-typing-svg
 <a href="https://github.com/CIsValid/Project-Temple"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CIsValid&repo=Project-Temple&theme=tokyonight" style="max-width: 100%;"></a>
 <a href="https://github.com/CIsValid/Mass-Rename-Transfer-Copy-Tool"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CIsValid&repo=Mass-Rename-Transfer-Copy-Tool&theme=tokyonight" style="max-width: 100%;"></a></p>
 
-###
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=CIsValid&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
 </div>
 
