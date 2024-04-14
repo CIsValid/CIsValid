@@ -24,10 +24,10 @@ https://github.com/DenverCoder1/readme-typing-svg
 ## GitHub Stats
 
 <a href="https://github.com/CIsValid">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=CIsValid&show_icons=true&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CIsValid&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/CIsValid">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CIsValid&layout=compact&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CIsValid&layout=compact&theme=tokyonight" />
 </a>
 
 ###
