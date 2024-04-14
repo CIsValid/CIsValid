@@ -1,5 +1,17 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=2000&color=9D7CD8&center=true&random=false&width=800&height=60&lines=Hi+there%2C+I'm+Christian%F0%9F%91%8B;%E3%81%A9%E3%82%82%EF%BD%9E%E3%80%81%E5%83%95%E3%81%AF%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%81%E3%83%A3%E3%83%B3%E3%81%A7%E3%81%99%EF%BD%9E%EF%BC%81%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%E3%81%8A%E9%A1%98%E3%81%84%E3%81%84%E3%81%9F%E3%81%97%E3%81%BE%E3%81%99%EF%BC%81" alt="Typing SVG" /></a>
 
+<!-- Some title!
+
+🔭 I’m currently working on a marketplace
+
+🌱 I’m currently learning Docker, Supabase, AWS
+
+💬 Ask me about Node.js, React, Firebase... or anything here
+
+⚡ Fun fact Game of Thrones Night's Watch cloaks are made from Ikea rugs
+
+-->
+
 ## GitHub Stats
 
 <a href="https://github.com/CIsValid">
@@ -15,6 +27,9 @@
   <img src="https://streak-stats.demolab.com?user=CIsValid&locale=en&mode=daily&theme=catppuccin-mocha&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
+<!-- Themes for streak stats
+https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/docs/themes.md
+-->
 ###
 
 ## Highlighted Projects:
