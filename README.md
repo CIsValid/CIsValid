@@ -48,5 +48,11 @@ https://github.com/DenverCoder1/readme-typing-svg
 <!-- Themes for streak stats
 https://github.com/DenverCoder1/github-readme-streak-stats/blob/main/docs/themes.md
 -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/CIsValid/CIsValid/output/github-contribution-grid-snake.svg" alt="Snake animation" height="170" />
+</div>
+
+<!-- Testing out something
 <br clear="both">
 <img src="https://raw.githubusercontent.com/CIsValid/CIsValid/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+-->
